@@ -1,3 +1,19 @@
+.btn-default{
+  color:black;
+  background-color: white;
+}
+.btn-primary{
+  color:white;
+  background-color:black;
+}
+.black-background {
+  background-color: black;
+  color: white;
+}
+.white-background {
+  background-color: white;
+  color: black;
+}
 h1 {
   color: green;
   text-align: center;
